@@ -12,28 +12,28 @@
     "website": "https://github.com/MRK-YT",
     "success_url": "https://telegram.dog/Mo_Tech_YT",
     "env": {
-        "API_ID": {
+        "API_ID": {12321729
             "description": "Get this value from my.telegram.org or @MT_MyTelegramOrg_Bot"
         },
-        "API_HASH": {
+        "API_HASH": {47e740206583669dc47b2b876156ef27
             "description": "Get this value from my.telegram.org or @MT_MyTelegramOrg_Bot"
         },
-        "MT_BOT_TOKEN": {
+        "MT_BOT_TOKEN": {5103635410:AAEyl1n4hsSSafLsYoD7Pap2oajlrM37flU
             "description": "Get this from @BotFather XD"
         },
-        "MT_BOT_USERNAME": {
+        "MT_BOT_USERNAME": {Mj_mary_jane_bot
             "description": "Your Bot Username which you sent to @BotFather (Without [@])"
         },
         "DB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789"
         },
-        "MT_BOT_OWNER": {
+        "MT_BOT_OWNER": {@tom_holland_spidey
             "description": "Bot Owner UserID"
         },
         "DATABASE_URL": {
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
-        "MT_UPDATES_CHANNEL": {
+        "MT_UPDATES_CHANNEL": {@chaostamilmovies
             "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
             "required": false
         },
